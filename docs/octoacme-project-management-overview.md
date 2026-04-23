@@ -19,13 +19,14 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- Common supporting roles: UX Designer, Business Analyst, and DevOps/SRE (see [Roles and Personas](./octoacme-roles-and-personas.md)).
 
 ## Key Artifacts
-- Project Charter / One-pager
+- Project Charter / One-pager ([template](./octoacme-project-one-pager-template.md))
 - Roadmap and Release Plan
 - Sprint/Iteration Backlog
-- Acceptance Criteria & Definition of Done
-- Risk Register
+- Acceptance Criteria & Definition of Done ([template](./octoacme-definition-of-done.md))
+- Risk Register ([template](./octoacme-risk-register-template.md))
 - Retrospective notes and action items
 
 ## Lifecycle (high-level)

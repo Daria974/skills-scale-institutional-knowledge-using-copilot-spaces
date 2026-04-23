@@ -10,6 +10,7 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 
 ## Pre-release requirements
 - All acceptance criteria met and PRs merged
+- Definition of Done met (or approved exception): [OctoAcme Definition of Done](./octoacme-definition-of-done.md)
 - Passing CI and security scans
 - Release notes drafted
 - Rollback / mitigation plan documented

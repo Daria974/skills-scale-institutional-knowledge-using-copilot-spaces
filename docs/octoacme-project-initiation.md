@@ -20,14 +20,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Resource needs (team roles, rough effort estimate)
 
 ## Project One-pager Template
-- Project name:
-- Problem statement:
-- Objective / Goal (SMART):
-- Success metrics:
-- Primary stakeholders:
-- Suggested timeline / milestones:
-- Quick risks & dependencies:
-- Proposed team / roles:
+Use the reusable template: [OctoAcme Project One-pager Template](./octoacme-project-one-pager-template.md)
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
