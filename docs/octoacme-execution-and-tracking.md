@@ -17,6 +17,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
   - Require at least one approval before merging (or team-defined policy)
 
 ## Quality & Testing
+- Baseline quality gate: [OctoAcme Definition of Done (DoD)](./octoacme-definition-of-done.md)
 - Unit tests for new logic
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release

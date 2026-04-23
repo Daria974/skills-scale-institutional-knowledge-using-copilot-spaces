@@ -8,7 +8,7 @@ Core roles include the **Project Manager (PM)**, **Product Manager (PdM/Product 
 
 Quality and release practices are integrated into day-to-day work: unit/integration coverage, critical-flow smoke testing, CI lint/test/security scanning, release notes, rollback planning, post-deploy verification, and retrospectives that convert learnings into owned, time-bound improvements.
 
-## Document Index
+## Core Process Docs
 
 - [Project Management Overview](./octoacme-project-management-overview.md)
 - [Project Initiation](./octoacme-project-initiation.md)
@@ -18,3 +18,10 @@ Quality and release practices are integrated into day-to-day work: unit/integrat
 - [Release & Deployment](./octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](./octoacme-roles-and-personas.md)
+
+## Reusable Templates & Checklists
+
+- [Project One-pager Template](./octoacme-project-one-pager-template.md)
+- [Risk Register Template](./octoacme-risk-register-template.md)
+- [Weekly Status Update Template](./octoacme-weekly-status-update-template.md)
+- [Definition of Done (DoD)](./octoacme-definition-of-done.md)
